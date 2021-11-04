@@ -3,7 +3,15 @@
 
 A data science assignment for an Applied Scripting Languages class. Features analysis and visualisation of weather patterns as recorded at Dublin Airport.
 
-To run the program, run the file Data_Science_Assignment.py. This program requires matplotlib, pandas, and can be rudimentally tested with pytest.
+To download the repo, enter the command:
+
+    git clone https://github.com/DarraghTate/Data_Science_Assignment_Weather_Analysis.git
+    
+To execute the program, enter the command:
+
+    python -u Data_Science_Assignment.py
+
+This program requires matplotlib, pandas, and can be rudimentally tested with pytest.
 
 This data, as collected by Met Éireann, contains the hourly observations of the weather station situated at Dublin Airport, collected between 1990 and 2020.  
 The station is located at 53.428°N, 6.421°W, and is at an elevation of 71 metres. 
